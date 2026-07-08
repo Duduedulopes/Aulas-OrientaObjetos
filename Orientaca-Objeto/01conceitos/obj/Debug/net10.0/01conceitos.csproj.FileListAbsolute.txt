@@ -1,0 +1,5 @@
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientaçãoObjetos\01conceitos\obj\Debug\net10.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientaçãoObjetos\01conceitos\obj\Debug\net10.0\01conceitos.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientaçãoObjetos\01conceitos\obj\Debug\net10.0\01conceitos.AssemblyInfo.cs
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientaçãoObjetos\01conceitos\obj\Debug\net10.0\01conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientaçãoObjetos\01conceitos\obj\Debug\net10.0\01conceitos.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.AssemblyInfo.cs
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.sourcelink.json
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\bin\Debug\net10.0\05herenca.exe
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\bin\Debug\net10.0\05herenca.deps.json
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\bin\Debug\net10.0\05herenca.runtimeconfig.json
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\bin\Debug\net10.0\05herenca.dll
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\bin\Debug\net10.0\05herenca.pdb
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.dll
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\refint\05herenca.dll
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.pdb
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\05herenca.genruntimeconfig.cache
+C:\Users\Samsung\Documents\eduardo\Projetos Eduardo\OrientacaoObjetos\05heranca\obj\Debug\net10.0\ref\05herenca.dll
